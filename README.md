@@ -20,6 +20,7 @@ This book guide, hopefully, can give you motivation to keep trying and eventuall
 ## Features
 ### View booklist as table or card
 <img src='https://i.imgur.com/sTTlD2o.gif' title='View Booklist' width='' alt='View Booklist' />
+
 ### CRUD operations (Create, Read, Update, Delete) for books in the list
 <img src='https://github.com/Anhtran0208/bookstore-mern/blob/master/Bookstore-ft2.gif' title='Edit Booklist' width='' alt='Edit Booklist' />
 
