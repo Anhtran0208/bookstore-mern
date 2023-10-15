@@ -9,7 +9,6 @@ This book guide, hopefully, can give you motivation to keep trying and eventuall
 <img src='https://github.com/Anhtran0208/bookstore-mern/blob/master/Screenshot%202023-10-15%20151954.png' title='ReadaThon Bookstore' alt='ReadaThon Bookstore' />
 
 ## Technologies
-
 **Frontend**: React.js, Vite, Tailwind CSS
 
 **Backend**: Express.js, Node.js
