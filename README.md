@@ -5,12 +5,17 @@
 reading books, doing personal projects, and learning online courses to improve my technical knowledge. 
 As a result, I successfully landed 2 internships in the freshman summer although I had no coding experience before pursuing CS.
 This book guide, hopefully, can give you motivation to keep trying and eventually, hard work will be paid off!!!
-<img src='https://imgur.com/a/OdIdCF5' title='ReadaThon Bookstore' alt='ReadaThon Bookstore' />
+
+<img src='https://github.com/Anhtran0208/bookstore-mern/blob/master/Screenshot%202023-10-15%20151954.png' title='ReadaThon Bookstore' alt='ReadaThon Bookstore' />
 ## Technologies
 **Frontend**: React.js, Vite, Tailwind CSS
+
 **Backend**: Express.js, Node.js
+
 **Database**: MongoDB Atlas
+
 **Deployment**: Netlify, Render
+
 ## Features
 ### View booklist as table or card
 <img src='https://i.imgur.com/sTTlD2o.gif' title='View Booklist' width='' alt='View Booklist' />
